@@ -1,0 +1,64 @@
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\bin\Debug\CodeAcademy.exe.config
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\bin\Debug\CodeAcademy.exe
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\bin\Debug\CodeAcademy.pdb
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\bin\Debug\EntityFramework.dll
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\bin\Debug\EntityFramework.xml
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.csprojResolveAssemblyReference.cache
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.Form1.resources
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.Properties.Resources.resources
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.csproj.GenerateResource.Cache
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.exe
+C:\Users\P104\source\repos\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.pdb
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\bin\Debug\CodeAcademy.exe.config
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\bin\Debug\CodeAcademy.exe
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\bin\Debug\CodeAcademy.pdb
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\bin\Debug\EntityFramework.dll
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\bin\Debug\EntityFramework.xml
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\obj\Debug\CodeAcademy.csprojResolveAssemblyReference.cache
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\obj\Debug\CodeAcademy.Form1.resources
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\obj\Debug\CodeAcademy.Properties.Resources.resources
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\obj\Debug\CodeAcademy.csproj.GenerateResource.Cache
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\obj\Debug\CodeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\obj\Debug\CodeAcademy.exe
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\obj\Debug\CodeAcademy.pdb
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\obj\Debug\CodeAcademy.Main.resources
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\obj\Debug\CodeAcademy.TeacherMenu.resources
+C:\Users\P104\Desktop\New folder (2)\CodeAcademy\obj\Debug\CodeAcademy.RegistrTeacher.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Add_data.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Add_Mentor.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Add_Student.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Add_Task.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Admin_Enter.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Form1.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Properties.Resources.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.TeacherLogin.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.TeacherMenu.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.csproj.GenerateResource.Cache
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\P104\Desktop\final app\CodeAcademy\bin\Debug\CodeAcademy.exe.config
+C:\Users\P104\Desktop\final app\CodeAcademy\bin\Debug\CodeAcademy.exe
+C:\Users\P104\Desktop\final app\CodeAcademy\bin\Debug\CodeAcademy.pdb
+C:\Users\P104\Desktop\final app\CodeAcademy\bin\Debug\EntityFramework.dll
+C:\Users\P104\Desktop\final app\CodeAcademy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\P104\Desktop\final app\CodeAcademy\bin\Debug\EntityFramework.xml
+C:\Users\P104\Desktop\final app\CodeAcademy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.exe
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.pdb
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Add_Group.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Add_Group_Types.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Add_Shedule.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Mentor_Info.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Mentor_Register.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.csprojResolveAssemblyReference.cache
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Student_Info.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Student_Register.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Teacher_info.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.ShowStudent.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.AddTaskType.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.Student_Tasks.resources
+C:\Users\P104\Desktop\final app\CodeAcademy\obj\Debug\CodeAcademy.csproj.ResolveComReference.cache
